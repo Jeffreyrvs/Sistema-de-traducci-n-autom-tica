@@ -118,14 +118,14 @@ Pega esta tabla rellena en el grupo y avisa a P2:
 
 | Dato | Valor |
 |---|---|
-| Commit | |
-| P1-3: MMAS 2×2 terminó / evaluaciones nuevas | |
-| P1-3: reanudación con 0 nuevas (sí/no) | |
-| P1-3: defecto y aleatoria (3) terminaron (sí/no) | |
-| P1-3: estados distintos de `ok` | |
-| P1-4: capas / estado / parámetros / memoria pico | |
-| P1-5: T_grande / memoria pico | |
-| P1-5: 40 × T_medio (s) | |
+| Commit |3d189afa298b20062a8ead9003fe2121dd8154b9|
+| P1-3: MMAS 2×2 terminó / evaluaciones nuevas |si / 3|
+| P1-3: reanudación con 0 nuevas (sí/no) |si|
+| P1-3: defecto y aleatoria (3) terminaron (sí/no) |si|
+| P1-3: estados distintos de `ok` |0|
+| P1-4: capas / estado / parámetros / memoria pico |Capas: 4, Estado: ok, Parámetros: 33,521,664, Memoria Pico: 3,079 MiB asignados / 3,520 MiB reservados |
+| P1-5: T_grande / memoria pico |183/3079=0.05943488|
+| P1-5: 40 × T_medio (s) |1hora y 44min (T_medio=156s)|
 
 ---
 
